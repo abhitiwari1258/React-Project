@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of: console.log(typeof null)?",
+    "options": ["null", "object", "undefined", "number"],
+    "answer": "object"
+  },
+  {
+    "id": 2,
+    "question": "Which hook is used to manage state in a functional component in React?",
+    "options": ["useEffect", "useContext", "useState", "useReducer"],
+    "answer": "useState"
+  },
+  {
+    "id": 3,
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "answer": "O(log n)"
+  },
+  {
+    "id": 4,
+    "question": "Which SQL command removes all records from a table but keeps its structure?",
+    "options": ["DELETE", "DROP", "TRUNCATE", "REMOVE"],
+    "answer": "TRUNCATE"
+  },
+  {
+    "id": 5,
+    "question": "Which method converts JSON string into a JavaScript object?",
+    "options": ["JSON.stringify()", "JSON.parse()", "JSON.convert()", "JSON.object()"],
+    "answer": "JSON.parse()"
+  }
+]
